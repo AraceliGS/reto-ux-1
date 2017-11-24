@@ -9,4 +9,8 @@
 
 El objetivo de este reto es escoger una de las 3 páginas dadas en el LMS (en este caso ```Pinterest```) e indicar qué partes conforman el UX y qué partes el UI, fundamentando mis respuestas.
 
+## Partes
 
+### UX
+
+### UI
