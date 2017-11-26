@@ -19,7 +19,7 @@ El objetivo de este reto es escoger una de las 3 páginas dadas en el LMS (en es
 - Poder obtener pines relacionados a los temas que le gusten o a lo último que ha estado viendo, accediendo a la sección Inicio(Por defecto, apareces allí al entrar a tu cuenta). Esto es en el caso que el que ingresa no sea un nuevo usuario. Cuando un usuario recién se crea su cuenta, le muestra imágenes de cualquier tema en general (Esto se debe, a que no se sabe cuáles son sus gustos. Cuando el usuario ya tiene tiempo usando esta página, evaluando la data sobre lo que este ve, se le puede asignar en Inicio pines relacionados a lo que ve más frecuentemente.)
 - Darle la opción al usuario de si quiere habilitar alguna herramienta(en este caso relacionada a las notificaciones de su escritorio) o no. Esto es UX, ya que no fuerzas al usuario a aceptar una nueva herramienta que tal vez a él o ella no le interesa y así permites que use la página cómodamente.
 - Cabe resaltar que el botón Habilitar destaca con su color de fondo para que resalte y el usuario centre su vista en esa opción .
-- El ícono de Pinterest. El cual al hacerle click, envía al usuario a la página principal(sección de Inicio) desde donde sea que esté. También, lo considero que es una parte UX porque al tener los colores carcaterísticos de Pinterest, permite que los usuarios reconozcan, retengan y se les quede grabado en su mente(cerebro)la marca de Pinterest.
+- El ícono de Pinterest. El cual al hacerle click, envía al usuario a la página principal(sección de Inicio) desde donde sea que esté. También, lo considero que es una parte UX porque al tener los colores característicos de Pinterest, permite que los usuarios reconozcan, retengan y se les quede grabado en su mente(cerebro)la marca de Pinterest.
 
 ![Imagen 2](assets/images/image12.JPG)
 
@@ -72,19 +72,17 @@ El objetivo de este reto es escoger una de las 3 páginas dadas en el LMS (en es
 
 ### **Partes UI**
 
-![Imagen 13](assets/images/image14.JPG)
+![Imagen 13](assets/images/image15.jpg)
 
 - Colores de fondo. Son partes UI, porque los colores, en general, forman parte del diseño visual de una página. El UI Designer utiliza colores de fondo para contrastar con los colores de las letras para distinguir algún elemento de la página por diferentes motivos. También cuando se quiere hacer algún efecto. Por ejemplo: al pasarle el mouse sobre el ratón a un elemento, su color de fondo se vuelve de blanco a un gris intermedio. Así se puede ver que se está sobre ese elemento.
 
-![Imagen 14](assets/images/image15.jpg)
+![Imagen 14](assets/images/image14.JPG)
 
 - Color, estilo, tamaño y fuente de letra. En Pinterest, estos factores varían según la jerarquía que tengan los elementos y qué elementos se quieren destacar; exceptuando la fuente de letra que es la misma para todos los elementos. Los considero parte UI de Pinterest, ya que permiten en el caso de la fuente de letra al ser la misma, dar uniformidad y no distraer la mirada de lo principal: las imágenes.
 
-![Imagen 15](assets/images/image14.JPG)
-
 - En el caso del color de letra, es una parte UI ya que se busca, con las diferentes tonalidades grises que tienen, resaltar o opacar ciertos elementos, permitiendo visualmente distinguir o 'ignorar' ()no darle mucha importancia) a elementos. Los tonos más oscuros son usados para resaltar títulos o para guiar al usuario donde se encuentra(sección Inicio), los grises intermedios para destacar algo ligeramente del resto de elementos, pero no tanto como los elementos de tonos grises más oscuros (las descripciones de las imágenes o de quién publicó la imagen). Y por último los tonos grises más claro, los cuales se usan para que los elementos se distingan del color de fondo blanco, pero no resalten tanto para no opacar los que sean más importantes(las secciones y utilidades que están en la parte derecha del menú de navegación).
 
-![Imagen 16](assets/images/image16.JPG)
+![Imagen 15](assets/images/image16.JPG)
 
 - Solo los textos dentro de las imágenes tienen color de letra blanco.
 
@@ -92,7 +90,7 @@ El objetivo de este reto es escoger una de las 3 páginas dadas en el LMS (en es
 
 - En el caso del tamaño de letra, es parte UI ya que permite distinguir visualmente la jerarquía que tienen los elementos de la página.
 
-![Imagen 17](assets/images/image17.jpg)
+![Imagen 16](assets/images/image17.jpg)
 
 - Colores de letra y fondo, y tamaños de los íconos. Los íconos son en sí parte UI, ya que forman parte del diseño visual de la página. Con sus diferentes tamaños, colores de letra y/o de fondo se busca que se distingan visualmente. Los colores de los íconos son generalmente de diferentes tonos grises, exceptuando:
 
