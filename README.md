@@ -105,4 +105,3 @@ El objetivo de este reto es escoger una de las 3 páginas dadas en el LMS (en es
 - Diseño de los botones(y los botones en sí). Esto lo considero parte UI, ya que los botones dan interacción a la página. Asimismo, el darle diseño a los botones los resalta y permite que se les pueda identificar como botones dentro de una página. Este diseño puede variar, pero los brtones Guardar se destacan por ser de color rojo y el texto que contiene es blanco. 
 
 - El borde redondeado de los pines. Le da estética a las imágenes y permite que se aprecie visualmente.
-
